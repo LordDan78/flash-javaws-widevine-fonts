@@ -39,7 +39,6 @@ msgstr ""
 msgid "Aguarde..."
 msgstr "Wait..."
 
-#, fuzzy
 msgid "Widevine, flash e fontes"
 msgstr "Widevine, flash and fonts"
 
